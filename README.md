@@ -5,8 +5,11 @@ Real-time safety monitoring powered by AI
 The Face Mask Detection System is an AI-powered object detection project designed to improve safety compliance in industrial environments. It automatically detects whether individuals are wearing masks properly using real-time image and video processing.
 
 **The system classifies faces into three categories:**
+
 ✅ With Mask
+
 ❌ Without Mask
+
 ⚠️ Improper Mask
 
 **Objective**
