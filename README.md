@@ -44,28 +44,28 @@ The Face Mask Detection System is an AI-powered object detection project designe
 
 **Dataset**
 
-**Source:** Kaggle Face Mask Detection Dataset
+1. **Source:** Kaggle Face Mask Detection Dataset
 
-**Annotations:** XML (converted to YOLO format)
+2. **Annotations:** XML (converted to YOLO format)
 
-**Classes:** With Mask, Without Mask, Improper Mask
+3. **Classes:** With Mask, Without Mask, Improper Mask
 
 **How It Works**
 
-Input image or video stream is captured
+1. Input image or video stream is captured
 
-Object detection model identifies faces
+2. Object detection model identifies faces
 
-Model classifies mask status
+3. Model classifies mask status
 
-Bounding boxes with confidence scores are displayed
+4. Bounding boxes with confidence scores are displayed
 
 Output is shown in real-time
 
 **Output**
 
-Detects multiple faces in real-time
+1. Detects multiple faces in real-time
 
-Displays bounding boxes
+2. Displays bounding boxes
 
-Shows mask classification with confidence score
+3. Shows mask classification with confidence score
