@@ -14,13 +14,13 @@ The Face Mask Detection System is an AI-powered object detection project designe
 
 **Objective**
 
-Develop a real-time mask detection system for safety monitoring
+1. Develop a real-time mask detection system for safety monitoring
 
-Accurately classify mask usage (proper, improper, none)
+2. Accurately classify mask usage (proper, improper, none)
 
-Enable automated detection to reduce manual supervision
+3. Enable automated detection to reduce manual supervision
 
-Improve workplace safety and compliance
+4. Improve workplace safety and compliance
 
 **Features**
 
@@ -38,9 +38,9 @@ Improve workplace safety and compliance
 
 **Programming Language:** Python
 
-**Models:** YOLOv8, Faster R-CNN, SSD
+1. **Models:** YOLOv8, Faster R-CNN, SSD
 
-**Libraries:** OpenCV, NumPy, Pandas, Matplotlib
+2. **Libraries:** OpenCV, NumPy, Pandas, Matplotlib
 
 **Dataset**
 
